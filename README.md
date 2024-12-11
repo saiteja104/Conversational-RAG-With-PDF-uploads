@@ -1,4 +1,3 @@
-# Conversational-RAG-With-PDF-uploads
 # Conversational RAG With PDF Uploads and Chat History
 
 This project is a **Conversational Retrieval-Augmented Generation (RAG)** system that allows users to upload PDFs, extract knowledge from them, and engage in a conversational Q&A with the uploaded content while retaining chat history for context.
